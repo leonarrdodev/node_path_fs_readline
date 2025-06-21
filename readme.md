@@ -28,7 +28,7 @@ Este projeto é uma aplicação simples em Node.js para gerenciar notas diretame
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/leonarrdodev/node_path_fs_readline
 
 2. Entre na pasta do projeto:
     ```
